@@ -1,6 +1,6 @@
 ### Hi, I'm Shahar 👋
 
-CS student who likes building things that actually get used: AI agents, automations, and apps that solve real problems.
+I like building things that actually get used: AI agents, automations, and apps that solve real problems. I work as a NOC operator and AI automation developer. 🎓 B.Sc. in Computer Science.
 
 **What I've built:**
 
@@ -12,6 +12,6 @@ CS student who likes building things that actually get used: AI agents, automati
 - Hebrew appointment booking site for a barbershop, with SMS login (Next.js, TypeScript, Supabase)
 - Business website for a construction and project management company
 
-**Tools I work with:** Python, TypeScript, Swift, Next.js, Firebase, Supabase, Raspberry Pi
+**Tools I work with:** Python, TypeScript, Swift, PowerShell, Next.js, Firebase, Supabase, Raspberry Pi
 
 📫 [LinkedIn](https://www.linkedin.com/in/shahar-kozniak) | kshahar1315@gmail.com
