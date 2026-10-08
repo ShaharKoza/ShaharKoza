@@ -1,5 +1,23 @@
-Hi, I'm Shahar 
+Shahar Kozniak
 
-I'm a B.Sc. Computer Science graduate focused on building practical **AI and automation systems**. I develop LLM agents, n8n workflows, and Python integrations to solve real business bottlenecks. I believe that successfully connecting software, infrastructure, and business processes always starts with deep, precise characterization.
+AI & Automation Developer | CS Graduate
 
-Currently working as an AI & Automation Developer.
+I build backend systems, LLM integrations, and automation pipelines that replace manual operations.
+
+### Projects
+
+- **Hermes** – Multi-agent LLM system orchestrated via Telegram. Built with Python, using webhooks and REST APIs for task routing.
+- **PuppyCare** – IoT data pipeline. Runs Python on a Raspberry Pi, pushing live sensor data to Firebase and a companion iOS app.
+- **Server Audit Automation** – Diagnostics tool that converts a 50+ step manual server audit into a single-click execution with a web dashboard.
+
+### Stack
+
+- **Languages:** Python, TypeScript, SQL
+- **Backend & Infra:** Node.js, PostgreSQL, MongoDB, Firebase, Docker
+- **AI & Automation:** LLM integrations, AI Agents, n8n
+- **Tools:** Git, Cursor, Claude
+
+### Links
+
+- [LinkedIn](https://www.linkedin.com/in/shahar-kozniak)
+- [kshahar1315@gmail.com](mailto:kshahar1315@gmail.com)
