@@ -15,7 +15,6 @@ I build backend systems, LLM integrations, and automation pipelines that replace
 - **Languages:** Python, TypeScript, SQL
 - **Backend & Infra:** Node.js, PostgreSQL, MongoDB, Firebase, Docker
 - **AI & Automation:** LLM integrations, AI Agents, n8n
-- **Tools:** Git, Cursor, Claude
 
 ### Links
 
